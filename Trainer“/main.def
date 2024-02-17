@@ -1,0 +1,4 @@
+LIBRARY Trainer
+EXPORTS
+	szModuleName @1 DATA
+	Initialize   @2
