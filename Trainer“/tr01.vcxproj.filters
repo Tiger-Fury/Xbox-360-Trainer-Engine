@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Games">
+      <UniqueIdentifier>{ae5845b4-24e0-4fed-b369-8bc7443d2191}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Images">
+      <UniqueIdentifier>{e38b178d-fd27-4c7a-9ff0-d7daf04078e7}</UniqueIdentifier>
+      <Extensions>png;bmp;jpeg</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="kernel.h">
+      <Filter>Source Files\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="common.h">
+      <Filter>Source Files\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DeadlyExample.h">
+      <Filter>Games</Filter>
+    </ClInclude>
+    <ClInclude Include="NotifySample.h">
+      <Filter>Games</Filter>
+    </ClInclude>
+    <ClInclude Include="BlackOps2.h">
+      <Filter>Games</Filter>
+    </ClInclude>
+    <ClInclude Include="BlackOps2test.h">
+      <Filter>Games</Filter>
+    </ClInclude>
+    <ClInclude Include="Streets of rage.h">
+      <Filter>Games</Filter>
+    </ClInclude>
+    <ClInclude Include="MGSPEACEWALKER.H">
+      <Filter>Games</Filter>
+    </ClInclude>
+    <ClInclude Include="AfterBurnerClimax.h">
+      <Filter>Games</Filter>
+    </ClInclude>
+    <ClInclude Include="Hitman Tri Offsets1.h">
+      <Filter>Games</Filter>
+    </ClInclude>
+    <ClInclude Include="Blood Money.h">
+      <Filter>Games</Filter>
+    </ClInclude>
+    <ClInclude Include="Crysis.h">
+      <Filter>Games</Filter>
+    </ClInclude>
+    <ClInclude Include="myExample.h">
+      <Filter>Games</Filter>
+    </ClInclude>
+    <ClInclude Include="Wolverine Origins.h">
+      <Filter>Games</Filter>
+    </ClInclude>
+    <ClInclude Include="codecavetest.h">
+      <Filter>Games</Filter>
+    </ClInclude>
+    <ClInclude Include="Transformers DarkSide.h">
+      <Filter>Games</Filter>
+    </ClInclude>
+    <ClInclude Include="Fallout NewVegastu5.h">
+      <Filter>Games</Filter>
+    </ClInclude>
+    <ClInclude Include="Resident Evil 5.h">
+      <Filter>Games</Filter>
+    </ClInclude>
+    <ClInclude Include="How To Survive.h">
+      <Filter>Games</Filter>
+    </ClInclude>
+    <ClInclude Include="Transformers FoC.h">
+      <Filter>Games</Filter>
+    </ClInclude>
+    <ClInclude Include="bejeweled 3.h">
+      <Filter>Games</Filter>
+    </ClInclude>
+    <ClInclude Include="Transformers WFC.h">
+      <Filter>Games</Filter>
+    </ClInclude>
+    <ClInclude Include="Transformers FoCaved.h">
+      <Filter>Games</Filter>
+    </ClInclude>
+    <ClInclude Include="Alien cm tu6.h">
+      <Filter>Games</Filter>
+    </ClInclude>
+    <ClInclude Include="Jurassic The Hunted.h">
+      <Filter>Games</Filter>
+    </ClInclude>
+    <ClInclude Include="SuperStreet Fighter 4.h">
+      <Filter>Games</Filter>
+    </ClInclude>
+    <ClInclude Include="SuperStreet Fighter 4 1.h">
+      <Filter>Games</Filter>
+    </ClInclude>
+    <ClInclude Include="mku3.h">
+      <Filter>Games</Filter>
+    </ClInclude>
+    <ClInclude Include="protect.h">
+      <Filter>Games</Filter>
+    </ClInclude>
+    <ClInclude Include="Tenchu z.h">
+      <Filter>Games</Filter>
+    </ClInclude>
+    <ClInclude Include="All Zombies Must Die.h">
+      <Filter>Games</Filter>
+    </ClInclude>
+    <ClInclude Include="0 day attack on earth.h">
+      <Filter>Games</Filter>
+    </ClInclude>
+    <ClInclude Include="A Kingdom for keflings.h">
+      <Filter>Games</Filter>
+    </ClInclude>
+    <ClInclude Include="A World of keflings.h">
+      <Filter>Games</Filter>
+    </ClInclude>
+    <ClInclude Include="Adventure Time Explore the dungeon BIDK.h">
+      <Filter>Games</Filter>
+    </ClInclude>
+    <ClInclude Include="aces of the galaxy.h">
+      <Filter>Games</Filter>
+    </ClInclude>
+    <ClInclude Include="Alan Wake American Nightmare.h">
+      <Filter>Games</Filter>
+    </ClInclude>
+    <ClInclude Include="Hitman Absolution.h">
+      <Filter>Games</Filter>
+    </ClInclude>
+    <ClInclude Include="LCGOL.h">
+      <Filter>Games</Filter>
+    </ClInclude>
+    <ClInclude Include="Ancients of ooga.h">
+      <Filter>Games</Filter>
+    </ClInclude>
+    <ClInclude Include="cod classic.h">
+      <Filter>Games</Filter>
+    </ClInclude>
+    <ClInclude Include="Cod WAW.h">
+      <Filter>Games</Filter>
+    </ClInclude>
+    <ClInclude Include="cod Blops.h">
+      <Filter>Games</Filter>
+    </ClInclude>
+    <ClInclude Include="Red Alert 3 Commander%27s Challenge.h">
+      <Filter>Games</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="GameThumbnail.png">
+      <Filter>Images</Filter>
+    </None>
+  </ItemGroup>
+</Project>
